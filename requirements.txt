@@ -1,0 +1,9 @@
+# Ce fichier répertorie toutes les dépendances requises pour l'application
+
+# Framework web Flask pour la création d'applications web en Python
+Flask==3.0.1
+
+# Flask-CORS permet de gérer les requêtes CORS (Cross-Origin Resource Sharing) pour l'API
+Flask-CORS==4.0.0
+
+# Ajoutez d'autres dépendances ici avec des commentaires explicatifs
